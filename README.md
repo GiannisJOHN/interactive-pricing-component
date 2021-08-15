@@ -12,6 +12,5 @@ of course i focus on responsiveness of a site and recently i give my best to upg
 3. media queries
 4. flexbox
 
-## MY WEBSITE: [PORTOFOLIO](https://iomentesidis.netlify.app)
 ## DESIGN COMPARISON [HERE](https://www.frontendmentor.io/solutions/interactivepricingcomponent-reactjs-qRWD4UpPc)
 ## LIVE PREVIEW [HERE](https://mentesidis-interacive-pricing.netlify.app)
