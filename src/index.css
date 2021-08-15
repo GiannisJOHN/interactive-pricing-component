@@ -233,7 +233,7 @@ main {
 .callToAction > div:last-child {
   width: 50%;
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   align-items: center;
 }
 .callToAction > div:last-child button {
@@ -308,5 +308,8 @@ main {
   }
   .callToAction > div:first-child, .callToAction > div:last-child {
     width: 100%;
+  }
+  .callToAction > div:last-child {
+    justify-content: center;
   }
 }
